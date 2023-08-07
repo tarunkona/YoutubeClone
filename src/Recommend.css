@@ -1,0 +1,18 @@
+.recommend{
+    flex:0.8; 
+    background-color: rgb(245, 243, 243);
+    padding: 20px 20px ;
+    padding-left: 20px;
+    padding-bottom: 0;
+}
+
+.recommend > h2{
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.recommend__videos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
